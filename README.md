@@ -33,17 +33,12 @@ I'm a passionate **Software Developer** with experience in building robust and s
 - Develop **enterprise-level backend systems** using Java and Spring Boot.
 - Build **dynamic and responsive web applications** with Angular.
 - Create and maintain **Salesforce custom solutions**, including Apex development and automation.
-- Collaborate in agile teams to deliver high-quality software on time.
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+- Collaborate in agile teams to deliver high-quality software on time
 
 ## 📫 How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viniciuschimello)
-- 📧 vini_uffs-cc@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuschimello)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vini_uffs-cc@hotmail.com)
 
 ---
 
